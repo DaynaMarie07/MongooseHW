@@ -1,0 +1,26 @@
+{
+  "name": "node_starter_no_morg",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaynaMarie07/MongooseHW.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DaynaMarie07/MongooseHW/issues"
+  },
+  "homepage": "https://github.com/DaynaMarie07/MongooseHW#readme",
+  "description": ""
+}
